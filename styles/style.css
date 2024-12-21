@@ -58,7 +58,7 @@
 /* первая секция */
 .cover{
     position: relative;
-    background-image: url('cover.jpg'); 
+    background-image: url('../images/cover.jpg'); 
     background-size: cover; 
     background-repeat: no-repeat; 
     font-family: "Raleway", sans-serif;
@@ -144,6 +144,16 @@
     font-size: 22px;
     background-color: transparent;
 }
+
+
+
+
+
+
+
+
+
+
 
 /* настройка второй секции */
 .lots{
@@ -318,9 +328,6 @@
 }
 .footer__social-list-item{
     list-style: none;
-}
-.footer__social-link{
-
 }
 .footer__social-icon{
     width: 48px;
