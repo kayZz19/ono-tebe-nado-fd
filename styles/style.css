@@ -7,7 +7,7 @@
 }
 /* навигация в шапке */
 .header_menu {
-  font-family: Releway, sans-serif;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 400;
 }
@@ -49,7 +49,6 @@
   letter-spacing: 0.2px;
   text-underline-offset: 3.8px;
   gap: 4px;
-  max-height: 293px;
 }
 .header_address {
   padding-right: 37px;
@@ -109,15 +108,6 @@
   padding-top: 35px;
   text-align: right;
 }
-
-.latter-spacing-extended {
-  letter-spacing: 29px;
-}
-
-.center_spacing {
-  letter-spacing: 17px;
-}
-
 .no-latter-spacing {
   letter-spacing: 0;
 }
@@ -131,7 +121,7 @@
 /* текст в footer в 1-ой секции */
 .cover__description-text {
   font-size: 22px;
-  word-spacing: 16px;
+  word-spacing: 19px;
   text-transform: uppercase;
 }
 /* настройка кнопки дял footer в 1-ой секции */
