@@ -121,7 +121,7 @@
 /* текст в footer в 1-ой секции */
 .cover__description-text {
   font-size: 22px;
-  word-spacing: 19px;
+  word-spacing: 16px;
   text-transform: uppercase;
 }
 /* настройка кнопки дял footer в 1-ой секции */
